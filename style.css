@@ -78,6 +78,7 @@ html * {
     padding-left: 8%;
     background-color: #ffffff;
     position: relative;
+    overflow: hidden;
 }
 .content{
     background: #f4f5f7;
